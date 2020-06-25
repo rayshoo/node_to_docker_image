@@ -10,6 +10,8 @@ https://jinn-blog.tistory.com/34
 
 https://hub.docker.com/_/node/
 
+https://www.sauru.so/blog/build-usable-docker-image-part1/
+
 ## Process
 
 ```txt
